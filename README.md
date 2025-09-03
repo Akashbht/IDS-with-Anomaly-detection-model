@@ -101,5 +101,5 @@ A confusion matrix is also displayed to evaluate the classification performance.
 
 ## Contributors
 
-- [Akash Bhatt](https://github.com/Akash123412)
+- [Anshdeep Rawat](https://github.com/GLCRealm)
 - [Adarsh Tomar](https://github.com/adarshtomar333)
